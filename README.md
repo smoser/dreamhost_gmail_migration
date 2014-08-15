@@ -1,6 +1,6 @@
 # DreamHost to Gmail Email Migration
 
-A few simple commands which migrate email from a DreamHost account to Gmail.
+A few simple commands to migrate emails from DreamHost to Gmail.
 
 ## Installation
 
